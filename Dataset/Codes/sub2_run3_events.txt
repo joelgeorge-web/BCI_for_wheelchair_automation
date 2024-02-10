@@ -1,0 +1,31 @@
+number	latency	type	urevent	duration	HED
+1.000000	1.000000	TASK1T0	1.000000		Agent-action, Experiment-participant, Participant-response, Rest
+2.000000	657.000000	TASK1T1	2.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+3.000000	1313.000000	TASK1T0	3.000000		Agent-action, Experiment-participant, Participant-response, Rest
+4.000000	1969.000000	TASK1T2	4.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+5.000000	2625.000000	TASK1T0	5.000000		Agent-action, Experiment-participant, Participant-response, Rest
+6.000000	3281.000000	TASK1T2	6.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+7.000000	3937.000000	TASK1T0	7.000000		Agent-action, Experiment-participant, Participant-response, Rest
+8.000000	4593.000000	TASK1T1	8.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+9.000000	5249.000000	TASK1T0	9.000000		Agent-action, Experiment-participant, Participant-response, Rest
+10.000000	5905.000000	TASK1T1	10.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+11.000000	6561.000000	TASK1T0	11.000000		Agent-action, Experiment-participant, Participant-response, Rest
+12.000000	7217.000000	TASK1T2	12.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+13.000000	7873.000000	TASK1T0	13.000000		Agent-action, Experiment-participant, Participant-response, Rest
+14.000000	8529.000000	TASK1T2	14.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+15.000000	9185.000000	TASK1T0	15.000000		Agent-action, Experiment-participant, Participant-response, Rest
+16.000000	9841.000000	TASK1T1	16.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+17.000000	10497.000000	TASK1T0	17.000000		Agent-action, Experiment-participant, Participant-response, Rest
+18.000000	11153.000000	TASK1T2	18.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+19.000000	11809.000000	TASK1T0	19.000000		Agent-action, Experiment-participant, Participant-response, Rest
+20.000000	12465.000000	TASK1T1	20.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+21.000000	13121.000000	TASK1T0	21.000000		Agent-action, Experiment-participant, Participant-response, Rest
+22.000000	13777.000000	TASK1T1	22.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+23.000000	14433.000000	TASK1T0	23.000000		Agent-action, Experiment-participant, Participant-response, Rest
+24.000000	15089.000000	TASK1T2	24.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+25.000000	15745.000000	TASK1T0	25.000000		Agent-action, Experiment-participant, Participant-response, Rest
+26.000000	16401.000000	TASK1T1	26.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)
+27.000000	17057.000000	TASK1T0	27.000000		Agent-action, Experiment-participant, Participant-response, Rest
+28.000000	17713.000000	TASK1T2	28.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-right-of, Torso), (Open), (To-right-of, Torso)
+29.000000	18369.000000	TASK1T0	29.000000		Agent-action, Experiment-participant, Participant-response, Rest
+30.000000	19025.000000	TASK1T1	30.000000		Agent-action, Hand, Experiment-participant, Hand, Participant-response, (Close), (To-left-of, Torso), (Open), (To-left-of, Torso)

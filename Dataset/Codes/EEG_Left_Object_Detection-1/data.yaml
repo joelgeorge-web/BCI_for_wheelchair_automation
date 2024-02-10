@@ -1,0 +1,12 @@
+names:
+- LEFT
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: eeg_left_object_detection
+  url: https://universe.roboflow.com/eeg-signal-yolo/eeg_left_object_detection/dataset/1
+  version: 1
+  workspace: eeg-signal-yolo
+test: ../test/images
+train: EEG_Left_Object_Detection-1/train/images
+val: EEG_Left_Object_Detection-1/valid/images
